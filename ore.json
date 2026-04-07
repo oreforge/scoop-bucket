@@ -1,0 +1,21 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/oreforge/ore/releases/download/v0.0.1/ore_0.0.1_Windows_x86_64.zip",
+            "bin": [
+                "ore.exe"
+            ],
+            "hash": "e7427a08082c0089dd9bb5efb0af14bd8ad508fc701b89ea7b116913a8e6e41b"
+        }
+    },
+    "homepage": "https://github.com/oreforge/ore",
+    "license": "MIT",
+    "description": "Infrastructure-as-Code CLI for game server networks",
+    "shortcuts": [
+        [
+            "ore.exe",
+            "Ore CLI"
+        ]
+    ]
+}
