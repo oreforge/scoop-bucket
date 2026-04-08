@@ -1,12 +1,12 @@
 {
-    "version": "0.0.5",
+    "version": "0.0.6",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/oreforge/ore/releases/download/v0.0.5/ore_0.0.5_Windows_x86_64.zip",
+            "url": "https://github.com/oreforge/ore/releases/download/v0.0.6/ore_0.0.6_Windows_x86_64.zip",
             "bin": [
                 "ore.exe"
             ],
-            "hash": "f6b4f6ea4c64db447bb371bc7015883299ec37a68e26e67528c11e72fda74f5e"
+            "hash": "8f832bb4fd078f292e068f04f95799339047266cad1a812c211257869b160940"
         }
     },
     "homepage": "https://github.com/oreforge/ore",
